@@ -1,28 +1,15 @@
-# This is a large heading
+# Ben Ponvilawan
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *uknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Thailand
 
-- This is
-- an unordered
-- list
+### Languages
+- Thai
+- English
+- Japanese (basic)
 
-1. This is
-2. an ordered
-3. list
+### Favorite animal
 
-Here is `some code` in the middle of a sentence.
+[Tigers!](https://en.wikipedia.org/wiki/Tiger)
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://ww.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
