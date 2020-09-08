@@ -1,2 +1,2 @@
 test3
-Another new line.
+I added this line in the update branch.
